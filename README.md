@@ -32,7 +32,7 @@ package main
 import (
     "fmt"
     "github.com/christiandenisi/editorjs-go"
-    "github.com/yourusername/editorjs-go-plugin-list/list"
+    "github.com/christiandenisi/editorjs-go-plugin-list/list"
 )
 
 func main() {
